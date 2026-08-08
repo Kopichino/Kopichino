@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/contributions.json
+source-prepped.png
+u2net.onnx
