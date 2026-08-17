@@ -364,6 +364,7 @@
 <rect x="734" y="76" width="11" height="11" rx="2" fill="#0e4429" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.3s" fill="freeze"/></rect>
 <rect x="734" y="90" width="11" height="11" rx="2" fill="#0e4429" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.3s" fill="freeze"/></rect>
 <rect x="734" y="104" width="11" height="11" rx="2" fill="#0e4429" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.5700000000000001s" dur="0.3s" fill="freeze"/></rect>
-<rect x="748" y="20" width="11" height="11" rx="2" fill="#161b22" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.52s" dur="0.3s" fill="freeze"/></rect>
-<text x="20" y="143" fill="#8b949e">126 contributions in the last year</text>
+<rect x="748" y="20" width="11" height="11" rx="2" fill="#0e4429" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.52s" dur="0.3s" fill="freeze"/></rect>
+<rect x="748" y="34" width="11" height="11" rx="2" fill="#161b22" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.53s" dur="0.3s" fill="freeze"/></rect>
+<text x="20" y="143" fill="#8b949e">127 contributions in the last year</text>
 </svg>
